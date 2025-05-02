@@ -9,7 +9,7 @@ It is built using TensorFlow 2.10 and runs on Python 3.9.0.
 
 ---
 
-## 🗂️ Project Structure:
+## 🗂️ Project Structure
 
 ```
 .
